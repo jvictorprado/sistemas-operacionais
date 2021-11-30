@@ -1,0 +1,8 @@
+Para que servem os sistemas operacionais?
+O que é gerência de um sistema operacional?
+Defina impasse e inanição.
+O que são SOs de código aberto?
+O que você entende por troca de contexto?
+Defina threads e processos?
+O que você entendo por sistemas computacionais de tempo real?
+O que faz... 1 – A unidade de gerência de memória - MMU: 2 – O sistema de arquivos:
