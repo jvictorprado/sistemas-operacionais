@@ -1,0 +1,9 @@
+Apresentar ao estudante apresentar ao estudante os conceitos fundamentais de sistemas operacionais, fundamentais para entendimento e projeto de sistemas computacionais.
+Ao final do semestre o estudante estará capacitado a:
+
+1) Definir um Sistema Operacional;
+2) Compreender o funcionamento de um Sistema Operacional;
+3) Identificar as principais funções de um Sistema Operacional;
+4) Compreender conceitos sobre multiprogramação, paginação, e memória virtual
+5) Implementar os principais conceitos de Sistemas Operacionais;
+6) Avaliar e definir restrições de hardware para execução de sistemas operacionais embarcados de tempo real.
