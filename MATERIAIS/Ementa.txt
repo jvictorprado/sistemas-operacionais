@@ -1,0 +1,21 @@
+• Introdução; Definição de SO; Visão geral de SO; Tipos de SO; Objetivos do SO
+• Revisão de HW; Chamadas de Sistema; Interrupção; Arquitetura de SO
+• Máquinas virtuais; Processos e tarefas; Sistemas multitarefas; Troca de contexto
+• Escalonamento de processos - Algoritmos de escalonamento
+• Sincronização entre processos 1 - Comunicação entre processos
+• Sincronização entre processos 2 - Região crítica; coordenação de processos
+• Sincronização entre processos 3 - Semáforos
+• Sincronização entre processos 4 - Problemas clássicos de sincronização
+• Sincronização entre processos 5 - Sinais; barreiras
+• Sincronização entre processos 6 - Impasses
+• Gerenciamento de memória 1 - Estrutura da memoria
+• Gerenciamento de memória 2 - Técnicas de alocação
+• Gerenciamento de memória 3 - Fragmentação; compartilhamento de memoria
+• Memória virtual
+• Algoritmos de substituição de paginas
+• Conjunto do trabalho.
+• Gerencia de arquivos 1 - Definição de arquivos; classificação de arquivos
+• Gerencia de arquivos 2 - Operações com arquivos
+• Gerencia de arquivos 3 - Dispositivos de armazenamento
+• Gerencia de arquivos 4 - Arquitetura de sistemas de arquivos
+• Projeto com RTOS (Real Time Operating System)
