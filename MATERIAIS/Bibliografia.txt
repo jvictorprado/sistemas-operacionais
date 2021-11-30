@@ -1,0 +1,13 @@
+BIBLIOGRAFIA BÁSICA
+
+1. TANENBAUM, Andrew S.; WOODHULL, Albert S. Sistemas Operacionais: Projetjos e Implementação. Bookman Editora, 2009.
+2. SILBERSCHATZ, Abraham; GAGNE, GREG; GALVIN, PETER BAER. Fundamentos de sistemas operativos. McGraw-Hill,, 2006.
+3. ANUNCIAÇÃO, Heverton Silva. UnixWare 7: guia prático. Livros Erica, 1999.
+4. MAZIERO, Carlos A. Sistemas operacionais: Conceitos e mecanismos. Livro aberto, 2014.
+
+
+BIBLIOGRAFIA COMPLEMENTAR
+
+5. MACHADO, Francis Berenger; MAIA, Luiz Paulo. Arquitetura de sistemas operacionais. LTC, 2004.
+6. BARRY, Richard et al. FreeRTOS. Internet, Oct, 2008.
+7. CHOFFNES, DEITEL; DEITEL, H. M.; DEITEL, P. J. Sistemas operacionais. Editora Person, 2005.
